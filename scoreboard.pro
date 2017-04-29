@@ -1,4 +1,4 @@
-update=Saturday, 15 April 2017 'pmt' 08:58:35 pm
+update=Saturday, 29 April 2017 'pmt' 09:16:33 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,5 @@ LibName31=samd10c
 LibName32=/Users/irees/Projects/kicad-library/library/microchip
 LibName33=/Users/irees/Projects/kicad-library/library/atmel
 LibName34=torex
+LibName35=graphic
+LibName36=logo
