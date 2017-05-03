@@ -1,5 +1,4 @@
 (fp_lib_table
-  (lib (name soic-14w)(type KiCad)(uri "$(KIPRJMOD)/soic-14w.pretty")(options "")(descr ""))
   (lib (name mousebite)(type KiCad)(uri "$(KIPRJMOD)/mousebite.pretty")(options "")(descr ""))
   (lib (name solder_jumper)(type KiCad)(uri "$(KIPRJMOD)/solder_jumper.pretty")(options "")(descr ""))
   (lib (name led_0603_handsoldering)(type KiCad)(uri "$(KIPRJMOD)/led_0603_handsoldering.pretty")(options "")(descr ""))
